@@ -1,2 +1,2 @@
 # patchwork-plusplus
-Unofficial customized repository of Patchwork forPoint cloud segmentation
+Unofficial customized repository of Patchwork for Point cloud segmentation
